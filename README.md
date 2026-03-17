@@ -10,22 +10,6 @@ This project involves developing a Python application that detects colors and as
 - Supports multiple color formats (RGB, HSV).
 - Saves detected colors and devices in a log file.
 
-## Installation Instructions
-1. Clone the repository:
-   ```
-   git clone https://github.com/PraJJwal0599/Thesis.git
-   cd Thesis
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## File Descriptions
 - `main.py`: The main script that runs the application.
 - `color_detector.py`: Contains functions for color detection.
